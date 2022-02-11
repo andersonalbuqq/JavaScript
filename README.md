@@ -1,2 +1,2 @@
 # JS
- Material feito durante o curso e JavaScript
+ Material feito durante o curso de JavaScript do curso em vídeo
